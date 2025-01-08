@@ -1,1 +1,1 @@
-
+I participated in a comprehensive 5-day hands-on practical workshop on Ethical Hacking & Cyber Security conducted by Supraja Technologies. The workshop covered various aspects of cybersecurity, including ethical hacking techniques, threat analysis, and security protocols. On the third day, a Cyber Security Hackathon was organized, providing an opportunity to apply the learned skills in a competitive environment. This experience enhanced my practical knowledge and problem-solving abilities in the field of cybersecurity.
